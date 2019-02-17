@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ghi chú</string>
+    <string name="txtInfoDetails_add">Thêm ghi chú mới của bạn</string>
+    <string name="txtInfoDetails_edit">Chỉnh sửa ghi chú</string>
+    <string name="btnEditDetails">Sửa</string>
+    <string name="btnAddDetails">Thêm</string>
+    <string name="empty_input_alert">Hãy điền hết các trường</string>
+    <string name="confirm_delete_title">Xóa ghi chú</string>
+    <string name="confirm_delete_message">Bạn có muốn xóa ghi chú này?</string>
+    <string name="confirm_delete_negative">Không</string>
+    <string name="confirm_delete_positive">Xóa</string>
+    <string name="hintDetails_name">Tiêu đề</string>
+    <string name="hintDetails_content">Nội dung</string>
+    <string name="action_menu_sort">Sắp xếp</string>
+    <string name="action_menu_sort_reverse">Như cũ</string>
+</resources>

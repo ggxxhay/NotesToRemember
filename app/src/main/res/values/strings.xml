@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Notes To Remember</string>
+    <string name="txtInfoDetails_add">Add a new note</string>
+    <string name="txtInfoDetails_edit">Edit your note</string>
+    <string name="hintDetails_name">Enter note\'s name</string>
+    <string name="hintDetails_content">Enter note\'s content</string>
+    <string name="btnEditDetails">Edit</string>
+    <string name="btnAddDetails">Add</string>
+    <string name="empty_input_alert">Please fill all input</string>
+    <string name="confirm_delete_title">Delete note</string>
+    <string name="confirm_delete_message">Do you want to delete this note?</string>
+    <string name="confirm_delete_negative">NO</string>
+    <string name="confirm_delete_positive">YES</string>
+    <string name="action_menu_sort">Sort</string>
+    <string name="action_menu_sort_reverse">Origin</string>
+</resources>
